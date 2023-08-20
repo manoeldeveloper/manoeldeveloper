@@ -1,8 +1,6 @@
-![GIF](https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ulxqvele89ayyl40e7afsnlhat7abtbjeix0u8co&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-
 ## Olá! Eu sou o Manoel Faustino 👋
 
+![GIF](https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ulxqvele89ayyl40e7afsnlhat7abtbjeix0u8co&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoelfaustino/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDOQ-9FDtDz9kgYE56cF2gw)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manoel_dev/)
