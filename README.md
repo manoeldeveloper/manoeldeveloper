@@ -13,4 +13,4 @@
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pelo programa do Embarque Digital. Meu objetivo futuro é me especializar na área de desenvolvimento mobile || Back-End.
