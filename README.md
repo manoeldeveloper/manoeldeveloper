@@ -17,4 +17,4 @@
 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pelo programa do Embarque Digital. Meu objetivo futuro é me especializar na área de desenvolvimento mobile || Back-End.
 
-! [Nyan Cat] (15
+! [Nyan Cat] ("https://giphy.com/gifs/TEAMFITTI-pixel-nyan-cat-M3ymyfBfmVUXQi7gZT")
