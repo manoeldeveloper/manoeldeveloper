@@ -17,4 +17,5 @@
 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pelo programa do Embarque Digital. Meu objetivo futuro é me especializar na área de desenvolvimento mobile || Back-End.
 
-![GIF](https://media.giphy.com/media/M3ymyfBfmVUXQi7gZT/giphy.gif)
+![GIF](https://giphy.com/gifs/cat-fast-nyan-FYZWmFuJAABp6MEryf)
+<iframe src="https://giphy.com/embed/FYZWmFuJAABp6MEryf" width="480" height="282" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-fast-nyan-FYZWmFuJAABp6MEryf">via GIPHY</a></p>
