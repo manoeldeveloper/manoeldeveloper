@@ -17,4 +17,4 @@
 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pelo programa do Embarque Digital. Meu objetivo futuro é me especializar na área de desenvolvimento mobile || Back-End.
 
-![GIF](https://media2.giphy.com/media/FYZWmFuJAABp6MEryf/giphy.gif?cid=ecf05e47zoudu6xkwcwv46itmpldcnf92n1vym771tocn71w&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![GIF](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fgoadmedia.com.br%2Fcriatividade%2Fgif-um-tributo-cultura-mash-up%2F&psig=AOvVaw1w2J-9rrtcYzynWbNWRiwa&ust=1692635357452000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMimv5zU64ADFQAAAAAdAAAAABAE)
