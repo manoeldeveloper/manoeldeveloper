@@ -4,8 +4,8 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDOQ-9FDtDz9kgYE56cF2gw)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manoel_dev/)
 
-![Manoel GitHub stats](https://github-readme-stats.vercel.app/api?username=manoeldeveloper&show_icons=true&theme=tokyonight&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoeldeveloper&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Manoel GitHub stats](https://github-readme-stats.vercel.app/api?username=manoeldeveloper&show_icons=true&theme=tokyonight&count_private=true)
 
 ## Tecnologias em estudo!
 
