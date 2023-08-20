@@ -1,3 +1,6 @@
+![GIF](https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ulxqvele89ayyl40e7afsnlhat7abtbjeix0u8co&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
 ## Olá! Eu sou o Manoel Faustino 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoelfaustino/)
@@ -17,4 +20,3 @@
 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pelo programa do Embarque Digital. Meu objetivo futuro é me especializar na área de desenvolvimento mobile || Back-End.
 
-![GIF](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fgoadmedia.com.br%2Fcriatividade%2Fgif-um-tributo-cultura-mash-up%2F&psig=AOvVaw1w2J-9rrtcYzynWbNWRiwa&ust=1692635357452000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMimv5zU64ADFQAAAAAdAAAAABAE)
