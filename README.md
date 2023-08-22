@@ -19,4 +19,4 @@
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pelo programa do Embarque Digital. Meu objetivo futuro é me especializar na área de desenvolvimento mobile || Back-End.
 
 [![Gmail Badge](https://img.shields.io/badge/-contatomanoelfaustino@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:contatomanoelfaustino@gmail.com)
-[![GitHub manoeldeveloper]( https://img.shields.io/github/followers/JntCruz99?label=follow&style=social)](https://github.com/manoeldeveloper)
+[![GitHub manoeldeveloper]( https://img.shields.io/github/followers/manoeldeveloper?label=follow&style=social)](https://github.com/manoeldeveloper)
