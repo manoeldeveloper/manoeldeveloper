@@ -1,4 +1,4 @@
-## Olá! Eu sou o Manoel Faustino 👋
+## Olá! Eu sou Manoel Faustino 👋
 
 ![GIF](https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47ulxqvele89ayyl40e7afsnlhat7abtbjeix0u8co&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoelfaustino/)
